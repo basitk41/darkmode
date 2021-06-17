@@ -15,7 +15,7 @@ function init() {
                     <div class="row">
                         <h2>Welcome here.</h2>
                         <div class="col-sm-1"></div>
-                        <div class="col-sm-1">
+                        <div class="col-sm-5">
                         <label>Username</label>
                         <input type="text" class="form-control"/>
                         <label>Password</label>
